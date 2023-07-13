@@ -1,1 +1,1 @@
-# Mini_Project-Smart_Irrigation_System
+# Mini Project - Smart Irrigation System
